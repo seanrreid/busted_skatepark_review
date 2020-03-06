@@ -31,6 +31,7 @@ class Parks {
       const response = await db.any(
         `select * from reviews where park_id = ${p_id}`
       );
+      return response;
     } catch (err) {
       return err.message;
     }
