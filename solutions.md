@@ -1,3 +1,9 @@
+# APP
+
+## app.js
+
+- Line 10 - missing comma (h/t to Brooke)
+
 # MODELS
 
 ## models/conn.js
