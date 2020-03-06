@@ -13,6 +13,7 @@
 ## models/parks.js
 
 - Line 34 - missing return statement
+- Line 4 - add `address`, `picture` to `constructor()` method (h/t to Jamario)
 
 ## models/users.js
 

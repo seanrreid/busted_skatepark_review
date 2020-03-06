@@ -1,7 +1,7 @@
 const db = require('./conn.js');
 
 class Parks {
-  constructor(id, name) {
+  constructor(id, name, address, picture) {
     this.id = id;
     this.name = name;
     this.address = address;
