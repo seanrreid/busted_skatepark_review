@@ -1,10 +1,10 @@
 # SKATEPARK REVIEW (BUSTED)
 
-## There are errors in all but _two_ of the files in this project. Your goal is to find them, and fix them
+## There are errors in all but _one_ of the files in this project. Your goal is to find them, and fix them
 
 - The app has been tested, and it does work when those errors are fixed.
 - The app is based on the codebase that we worked with yesterday, and is current through the work we completed yesterday afternoon.
-- It uses ElephantSQL to host the database, and the `conn.js` has all the correct details (that's _one_ of the files that doesn't have any errors).
+- It uses ElephantSQL to host the database, and the `conn.js` has all the correct details (that's the file that doesn't have any errors)
 
 ## Getting started
 
