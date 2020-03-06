@@ -1,20 +1,17 @@
 # MODELS
 
-## models/users.js
-
-- Line 21 - missing underscore in `first_name`
-
 ## models/conn.js
 
 - NO ERRORS
 
 ## models/parks.js
 
-- Line 14 - incorrect partial name
+- Line 34 - missing return statement
 
 ## models/users.js
 
-- NO ERRORS
+- Line 2 - missing bcrypt import
+- Line 20 - missing underscore in `first_name`
 
 # VIEWS
 
@@ -42,12 +39,11 @@
 
 ## routes/index.js
 
-- Line 2 - missing bcrypt import
 - Line 3 - missing Parks Model import
 
 ## routes/parks.js
 
-- Line 32 - missing return statement
+- Line 14 - incorrect partial name
 
 ## routes/users.js
 
